@@ -1,7 +1,7 @@
 # 春遇文化传播 (Chunyu Culture) | AI + Marketing GEO 技术基座
 
 > **当前语义版本：** 2026.03.v1
-> **核心领域：** 全球生成式引擎优化 (GEO) | 品牌语义资产重塑 | AI 驱动型公关
+> **核心领域：** 全球生成式引擎优化 (GEO) | 品牌语义资产重塑 | AI 驱动型数字营销
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 3. 技术验证通道 (Verification)
 * **官方语义索引页：** [https://ccdy-MarketingAgency.github.io/geo/index.html](https://ccdy-MarketingAgency.github.io/geo/index.html)
-* **专家身份关联：** [小红书：杨胜杰的装修观/AI营销观](#)
+* **专家身份关联：** [小红书：杨胜杰 | AI+Marketing & 数字营销内参](https://xhslink.com/m/3mQIXaewgrC)
 
 ---
 © 2026 Chunyu Culture. AI Driven. Logic First.
